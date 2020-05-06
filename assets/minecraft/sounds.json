@@ -1,0 +1,431 @@
+{
+  "block.dead_bubble_coral_block.hit": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone2",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone3",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone4",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone5",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone6",
+        "volume": 0.1625,
+        "pitch": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.dead_bubble_coral_block.break": {
+    "sounds": [
+      {
+        "name": "dig/stone1",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone2",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone3",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone4",
+        "volume": 0.65,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.dead_bubble_coral_block.place": {
+    "sounds": [
+      {
+        "name": "random/anvil_land",
+        "volume": 0.65,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.dead_bubble_coral_block.step": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.045
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.dead_bubble_coral_block.fall": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.15,
+        "pitch": 0.75
+      }
+    ]
+  },
+  "block.dead_bubble_coral_block.use": {
+    "sounds": [
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 7,
+        "pitch": 0.95
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 7,
+        "pitch": 0.95
+      },
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 7,
+        "pitch": 0.93
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 7,
+        "pitch": 0.93
+      },
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 7,
+        "pitch": 0.97
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 7,
+        "pitch": 0.97
+      }
+    ],
+    "subtitle": "subtitles.block.bell.use"
+  },
+  "block.dead_bubble_coral_block.resonate": {
+    "sounds": [
+      {
+        "name": "block/bell/resonate",
+        "volume": 0.6,
+        "pitch": 1
+      },
+      {
+        "name": "block/bell/resonate",
+        "volume": 0.6,
+        "pitch": 0.9
+      },
+      {
+        "name": "block/bell/resonate",
+        "volume": 0.6,
+        "pitch": 0.85
+      }
+    ],
+    "subtitle": "subtitles.block.bell.resonate"
+  },
+  "block.dead_tube_coral_block.hit": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone2",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone3",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone4",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone5",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone6",
+        "volume": 0.1625,
+        "pitch": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.dead_tube_coral_block.break": {
+    "sounds": [
+      {
+        "name": "dig/stone1",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone2",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone3",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone4",
+        "volume": 0.65,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.dead_tube_coral_block.place": {
+    "sounds": [
+      {
+        "name": "random/anvil_land",
+        "volume": 0.65,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.dead_tube_coral_block.step": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.045
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.dead_tube_coral_block.fall": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.15,
+        "pitch": 0.75
+      }
+    ]
+  },
+  "block.dead_tube_coral_block.use": {
+    "sounds": [
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 13,
+        "pitch": 1.05
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 13,
+        "pitch": 1.05
+      },
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 13,
+        "pitch": 1.03
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 13,
+        "pitch": 1.03
+      },
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 13,
+        "pitch": 1.07
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 13,
+        "pitch": 1.07
+      }
+    ],
+    "subtitle": "subtitles.block.bell.use"
+  },
+  "block.dead_tube_coral_block.resonate": {
+    "sounds": [
+      {
+        "name": "block/bell/resonate",
+        "volume": 1.05,
+        "pitch": 1
+      },
+      {
+        "name": "block/bell/resonate",
+        "volume": 1.05,
+        "pitch": 1.05
+      },
+      {
+        "name": "block/bell/resonate",
+        "volume": 1.05,
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.block.bell.resonate"
+  },
+  "block.dead_brain_coral_block.hit": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone2",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone3",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone4",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone5",
+        "volume": 0.1625,
+        "pitch": 0.5
+      },
+      {
+        "name": "step/stone6",
+        "volume": 0.1625,
+        "pitch": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.dead_brain_coral_block.break": {
+    "sounds": [
+      {
+        "name": "dig/stone1",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone2",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone3",
+        "volume": 0.65,
+        "pitch": 0.8
+      },
+      {
+        "name": "dig/stone4",
+        "volume": 0.65,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.dead_brain_coral_block.place": {
+    "sounds": [
+      {
+        "name": "random/anvil_land",
+        "volume": 0.65,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.dead_brain_coral_block.step": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.045
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.dead_brain_coral_block.fall": {
+    "sounds": [
+      {
+        "name": "step/stone1",
+        "volume": 0.15,
+        "pitch": 0.75
+      }
+    ]
+  },
+  "block.dead_brain_coral_block.use": {
+    "sounds": [
+      {
+        "name": "random/orb",
+        "volume": 15,
+        "pitch": 1.05
+      },
+      {
+        "name": "random/orb",
+        "volume": 15,
+        "pitch": 0.95
+      },
+      {
+        "name": "random/orb",
+        "volume": 15,
+        "pitch": 1.03
+      },
+      {
+        "name": "random/orb",
+        "volume": 15,
+        "pitch": 0.93
+      },
+      {
+        "name": "random/orb",
+        "volume": 15,
+        "pitch": 1.07
+      },
+      {
+        "name": "random/orb",
+        "volume": 15,
+        "pitch": 0.97
+      }
+    ],
+    "subtitle": "subtitles.block.bell.use"
+  },
+  "block.dead_brain_coral_block.resonate": {
+    "sounds": [
+      {
+        "name": "block/bell/resonate",
+        "volume": 1.05,
+        "pitch": 1.5
+      },
+      {
+        "name": "block/bell/resonate",
+        "volume": 1.05,
+        "pitch": 1.55
+      },
+      {
+        "name": "block/bell/resonate",
+        "volume": 1.05,
+        "pitch": 1.6
+      }
+    ],
+    "subtitle": "subtitles.block.bell.resonate"
+  }
+}
